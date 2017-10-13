@@ -20,7 +20,7 @@ echo %SVN_REVISION%
 
 If you see these type of problems while getting SVN_REVISION number in Jenkins Pipeline,
 
-svn: E170013: Unable to connect to a repository at URL 'https://ellevation.svn.beanstalkapp.com/ellevationweb/trunk'
+svn: E170013: Unable to connect to a repository at URL 'https://<>/trunk'
 svn: E215004: No more credentials or we tried too many times.
 Authentication failed
 
